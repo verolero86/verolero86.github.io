@@ -709,7 +709,7 @@ header p {
   padding-right: 10px;
 }
 #banner .button {
-  border: 1px solid #dba500;
+  border: 1px solid #4dda37;
   background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffce38));
   background: -webkit-linear-gradient(#ffe788, #ffce38);
   background: -moz-linear-gradient(#ffe788, #ffce38);
@@ -744,7 +744,7 @@ header p {
   background: -o-linear-gradient(#ffe788, #ffe788);
   background: -ms-linear-gradient(#ffe788, #ffe788);
   background: linear-gradient(#ffe788, #ffe788);
-  background-color: #ffeca0;
+  background-color: #66e375;
 }
 #banner .fork {
   position: fixed;
