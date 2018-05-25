@@ -1,0 +1,8 @@
+title: Verónica Vergara
+description: the beginnings of my personal site
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
