@@ -2,7 +2,7 @@ title: Verónica G. Vergara Larrea
 description: Desde la mitad del mundo...
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-minimal
+theme: jekyll-theme-leap-day
 
 gems:
   - jekyll-mentions
